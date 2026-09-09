@@ -1,0 +1,20 @@
+{
+  "version": 2026,
+  "last_updated": "2026-09-09",
+  "events": [
+    {
+      "date": "2026-09-12",
+      "hebrew_date": "1 Tishrei 5787",
+      "title_zh": "吹角節 (猶太新年)",
+      "title_en": "Rosh Hashanah",
+      "description": "猶太曆的新年，標誌著十天悔改日的開始。"
+    },
+    {
+      "date": "2026-09-21",
+      "hebrew_date": "10 Tishrei 5787",
+      "title_zh": "贖罪日",
+      "title_en": "Yom Kippur",
+      "description": "猶太教中最神聖和莊嚴的節日，全日禁食祈禱。"
+    }
+  ]
+}
