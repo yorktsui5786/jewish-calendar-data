@@ -146,115 +146,154 @@
       "start_date": "2026-09-12",
       "end_date": "2026-09-13",
       "title_en": "Rosh Hashanah",
-      "title_zh": "吹角節 (猶太新年)"
+      "title_zh": "吹角節 (猶太新年)",
+      "description_zh": "猶太新年，為期兩天。吹響角聲喚醒人心，預備心靈向神悔改與禱告[cite: 1]。",
+      "description_en": "Jewish New Year, celebrated over 2 days with prayer, reflection, and blowing of the shofar[cite: 1]."
     },
     {
       "start_date": "2026-09-21",
       "end_date": "2026-09-21",
       "title_en": "Yom Kippur",
-      "title_zh": "贖罪日"
+      "title_zh": "贖罪日",
+      "description_zh": "猶太教中最神聖嚴肅的一天，全體禁食並專心祈禱悔改，尋求神的赦免[cite: 1]。",
+      "description_en": "Holiest day in Judaism, centered on 25 hours of fasting, intensive prayer, and atonement[cite: 1]."
     },
     {
       "start_date": "2026-09-26",
       "end_date": "2026-10-02",
       "title_en": "Sukkot",
-      "title_zh": "住棚節"
+      "title_zh": "住棚節",
+      "description_zh": "為期 7 天的慶典，紀念以色列人出埃及後在曠野住棚的日子，感恩神的看顧與豐收[cite: 1]。",
+      "description_en": "7-day festival commemorating the Exodus from Egypt and God's protection in the wilderness[cite: 1]."
     },
     {
       "start_date": "2026-10-03",
       "end_date": "2026-10-03",
       "title_en": "Shemini Atzeret",
-      "title_zh": "嚴肅會"
+      "title_zh": "嚴肅會",
+      "description_zh": "住棚節過後的第八天特別聚會，標誌著秋季節期的總結[cite: 1]。",
+      "description_en": "Eighth day of assembly immediately following Sukkot, concluding the autumn festival cycle[cite: 1]."
     },
     {
       "start_date": "2026-10-04",
       "end_date": "2026-10-04",
       "title_en": "Simchat Torah",
-      "title_zh": "歡慶妥拉節"
+      "title_zh": "歡慶妥拉節",
+      "description_zh": "慶祝完成年度《妥拉》經文朗讀循環並展開新一輪閱讀，人們載歌載舞歡慶[cite: 1]。",
+      "description_en": "Celebrating the completion and immediate restarting of the annual Torah reading cycle[cite: 1]."
     },
     {
       "start_date": "2026-12-05",
       "end_date": "2026-12-12",
       "title_en": "Hanukkah",
-      "title_zh": "光明節"
+      "title_zh": "光明節",
+      "description_zh": "為期 8 天，紀念耶路撒冷聖殿重新獻給神以及油燈連續燃燒八天的神蹟[cite: 1]。",
+      "description_en": "8-day festival of lights celebrating the rededication of the Second Temple in Jerusalem[cite: 1]."
     },
     {
       "start_date": "2027-03-23",
       "end_date": "2027-03-23",
       "title_en": "Purim",
-      "title_zh": "普珥節"
+      "title_zh": "普珥節",
+      "description_zh": "紀念以斯帖記中猶太人從哈曼的陰謀中奇蹟生還與獲救[cite: 1]。",
+      "description_en": "Commemorating the salvation of the Jewish people from Haman's plot as told in the Book of Esther[cite: 1]."
     },
     {
       "start_date": "2027-03-24",
       "end_date": "2027-03-24",
       "title_en": "Shushan Purim",
-      "title_zh": "書珊普珥節"
+      "title_zh": "書珊普珥節",
+      "description_zh": "在古城牆城市（如耶路撒冷）慶祝的普珥節，紀念波斯首都書珊城延遲一天的勝利[cite: 1]。",
+      "description_en": "Celebrated in ancient walled cities like Jerusalem, marking the delayed victory in the Persian capital Shushan[cite: 1]."
     },
     {
       "start_date": "2027-04-22",
       "end_date": "2027-04-29",
       "title_en": "Pesach / Hag HaMatzah",
-      "title_zh": "逾越節 / 除酵節"
+      "title_zh": "逾越節 / 除酵節",
+      "description_zh": "紀念神帶領以色列人拯救脫離埃及為奴的困境[cite: 1]。",
+      "description_en": "Commemorating the deliverance and freedom of Israelites from Egyptian slavery[cite: 1]."
     },
     {
       "start_date": "2027-04-23",
       "end_date": "2027-04-23",
       "title_en": "Yom HaBikkurim",
-      "title_zh": "初熟節"
+      "title_zh": "初熟節",
+      "description_zh": "在除酵節期間舉行，獻上大麥首熟的禾捆，表達向神的感恩[cite: 1]。",
+      "description_en": "Held during Unleavened Bread, presenting the first sheaf of barley harvest to God[cite: 1]."
     },
     {
       "start_date": "2027-04-23",
       "end_date": "2027-06-10",
       "title_en": "Counting of the Omer",
-      "title_zh": "數算俄梅珥"
+      "title_zh": "數算俄梅珥",
+      "description_zh": "從初熟節起連續數算 49 天直至五旬節的屬靈預備階段[cite: 1]。",
+      "description_en": "49-day period counted daily from Passover/Bikkurim leading up to Shavuot[cite: 1]."
     },
     {
       "start_date": "2027-05-21",
       "end_date": "2027-05-21",
       "title_en": "Pesach Sheini",
-      "title_zh": "補過逾越節"
+      "title_zh": "補過逾越節",
+      "description_zh": "為因禮儀不潔或身處遠方錯過正節的人提供的第二次過逾越節機會[cite: 1]。",
+      "description_en": "A second opportunity to observe Passover for those unable to celebrate in Nisan[cite: 1]."
     },
     {
       "start_date": "2027-06-11",
       "end_date": "2027-06-12",
       "title_en": "Shavuot",
-      "title_zh": "七七節 (五旬節)"
+      "title_zh": "七七節 (五旬節)",
+      "description_zh": "紀念在西奈山頒布十誡與妥拉，同時也是小麥豐收的慶典[cite: 1]。",
+      "description_en": "Marks the giving of the Torah at Mount Sinai and the wheat harvest festival[cite: 1]."
     },
     {
       "start_date": "2027-10-02",
       "end_date": "2027-10-03",
       "title_en": "Rosh Hashanah",
-      "title_zh": "吹角節 (猶太新年)"
+      "title_zh": "吹角節 (猶太新年)",
+      "description_zh": "5788 猶太新年，吹響角聲悔改省察[cite: 1]。",
+      "description_en": "Jewish New Year 5788 celebration with shofar blowing[cite: 1]."
     },
     {
       "start_date": "2027-10-11",
       "end_date": "2027-10-11",
       "title_en": "Yom Kippur",
-      "title_zh": "贖罪日"
+      "title_zh": "贖罪日",
+      "description_zh": "5788 贖罪日，禁食與禱告[cite: 1]。",
+      "description_en": "Atonement and fasting day for 5788[cite: 1]."
     },
     {
       "start_date": "2027-10-16",
       "end_date": "2027-10-22",
       "title_en": "Sukkot",
-      "title_zh": "住棚節"
+      "title_zh": "住棚節",
+      "description_zh": "5788 住棚節慶典[cite: 1]。",
+      "description_en": "Sukkot festival for 5788[cite: 1]."
     },
     {
       "start_date": "2027-10-23",
       "end_date": "2027-10-23",
       "title_en": "Shemini Atzeret",
-      "title_zh": "嚴肅會"
+      "title_zh": "嚴肅會",
+      "description_zh": "5788 嚴肅會[cite: 1]。",
+      "description_en": "Shemini Atzeret for 5788[cite: 1]."
     },
     {
       "start_date": "2027-10-24",
       "end_date": "2027-10-24",
       "title_en": "Simchat Torah",
-      "title_zh": "歡慶妥拉節"
+      "title_zh": "歡慶妥拉節",
+      "description_zh": "5788 歡慶妥拉節[cite: 1]。",
+      "description_en": "Simchat Torah for 5788[cite: 1]."
     },
     {
       "start_date": "2027-12-25",
       "end_date": "2028-01-01",
       "title_en": "Hanukkah",
-      "title_zh": "光明節"
+      "title_zh": "光明節",
+      "description_zh": "5788 光明節[cite: 1]。",
+      "description_en": "Hanukkah celebration for 5788[cite: 1]."
     }
   ]
 }
+```<FollowUp label="Want me to draft a prompt for Cursor to update the UI cards with these new description fields?" query="Draft a prompt for Cursor to render description_zh/description_en in the detail cards."/>
