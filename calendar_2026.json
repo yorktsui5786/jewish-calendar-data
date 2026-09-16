@@ -8,7 +8,8 @@
       "year_hebrew": "5787",
       "month_en": "Tishrei",
       "month_zh": "提斯利月",
-      "tribal_association": "以法蓮支派 (Tribe of Ephraim)",
+      "tribal_association_en": "Tribe of Ephraim",
+      "tribal_association_zh": "以法蓮支派",
       "meaning_zh": "提斯利月有「開始」意思，是猶太人民間曆法正月，也是猶太聖曆的第七個月份。而數字「7」代表「完成、圓滿」，因此提斯利月是整年節期循環中的高點。",
       "meaning_en": "Tishrei means 'beginning'. It's the Jewish New Year and also the seventh month of Jewish Calendar. As the number '7' represents 'completion and fulfillment', Tishrei is the peak of the festivals of the whole year."
     },
@@ -16,7 +17,8 @@
       "date": "2026-10-12",
       "month_en": "Cheshvan",
       "month_zh": "瑪西班月",
-      "tribal_association": "瑪拿西支派 (Tribe of Manasseh)",
+      "tribal_association_en": "Tribe of Manasseh",
+      "tribal_association_zh": "瑪拿西支派",
       "meaning_zh": "瑪西班月是猶太聖曆的第八個月份，希伯來數字「8」代表「啓示」和「新的開始」。",
       "meaning_en": "Cheshvan is the eighth month of Jewish calendar. The Hebrew number '8' represents 'revelation' and 'a new start'."
     },
@@ -24,7 +26,8 @@
       "date": "2026-11-11",
       "month_en": "Kislev",
       "month_zh": "基斯流月",
-      "tribal_association": "便雅憫支派 (Tribe of Benjamin)",
+      "tribal_association_en": "Tribe of Benjamin",
+      "tribal_association_zh": "Tribe of Benjamin",
       "meaning_zh": "基斯流月是猶太聖曆的第九個月份，基斯流這名字源於希伯來文的「安全」及「信任」。",
       "meaning_en": "Kislev is the ninth month of Jewish Calendar. The name 'Kislev' is originated from the Hebrew word 'safe' and 'trust'."
     },
@@ -32,7 +35,8 @@
       "date": "2026-12-11",
       "month_en": "Tevet",
       "month_zh": "提別月",
-      "tribal_association": "但支派 (Tribe of Dan)",
+      "tribal_association_en": "Tribe of Dan",
+      "tribal_association_zh": "但支派",
       "meaning_zh": "提別月是猶太聖曆的第十個月份。從光明節開始，提醒我們神是行神跡的神，光永遠勝過黑暗。",
       "meaning_en": "Tevet is the tenth month of Jewish Calendar. Hanukkah begins to remind us God is the God of miracles and light shall overcome darkness."
     },
@@ -40,7 +44,8 @@
       "date": "2027-01-09",
       "month_en": "Shevat",
       "month_zh": "細罷特月",
-      "tribal_association": "亞設支派 (Tribe of Asher)",
+      "tribal_association_en": "Tribe of Asher",
+      "tribal_association_zh": "亞設支派",
       "meaning_zh": "細罷特月是猶太聖曆的第十一個月份，希伯來文「細罷特」的意思是「杖」，而通常杖是權柄的象徵，或作倚靠的枴杖。",
       "meaning_en": "Shevat is the eleventh month of Jewish Calendar. 'Shevat' means 'rod' in Hebrew which usually symbolizes authority or a walking stick."
     },
@@ -48,7 +53,8 @@
       "date": "2027-02-08",
       "month_en": "Adar I",
       "month_zh": "第一亞達月",
-      "tribal_association": "拿弗他利支派 (Tribe of Naphtali)",
+      "tribal_association_en": "Tribe of Naphtali",
+      "tribal_association_zh": "拿弗他利支派",
       "meaning_zh": "第一亞達月是猶太聖曆的閏年中第十二個月份。猶太曆每 19 年為一循環，其中第 3、6、8、11、14、17、19 年為閏年。閏月稱為「第一亞達月」，而所有宗教節期均留在「第二亞達月」。這不僅符合曆法運算，更為第二亞達月的慶典增添了預備與期待的氛圍。",
       "meaning_en": "Adar I is the twelfth month of leap year in Jewish calendar. In the 19-year Jewish calendar cycle, years 3, 6, 8, 11, 14, 17, and 19 are leap years. The added leap month is Adar I, while all religious significance is placed on Adar II."
     },
@@ -56,7 +62,8 @@
       "date": "2027-03-10",
       "month_en": "Adar II",
       "month_zh": "第二亞達月",
-      "tribal_association": "拿弗他利支派 (Tribe of Naphtali)",
+      "tribal_association_en": "Tribe of Naphtali",
+      "tribal_association_zh": "拿弗他利支派",
       "meaning_zh": "第二亞達月是猶太聖曆的閏年中第十三個月份。亞達在希伯來文中的意思為「力量」。對猶太人而言，這是一個轉憂為喜、轉悲為樂的月份。",
       "meaning_en": "Adar II is the thirteenth month of leap year in Jewish calendar. 'Adar' means 'strength' in Hebrew. For the Jewish people, Adar is a month of transformation, symbolizing the turning of sorrow into joy and mourning into celebration."
     },
@@ -64,7 +71,8 @@
       "date": "2027-04-08",
       "month_en": "Nissan",
       "month_zh": "尼散月 (亞筆月)",
-      "tribal_association": "猶大支派 (Tribe of Judah)",
+      "tribal_association_en": "Tribe of Judah",
+      "tribal_association_zh": "猶大支派",
       "meaning_zh": "尼散月是猶太聖曆的第一個月份，在以色列人出埃及前，神給即將誕生的以色列國的第一條誡命就是「你們要以本月為正月，為一年之首」(出12:2)。亦有猶太人稱本月為亞筆月。",
       "meaning_en": "Nisan is the first month of the Jewish calendar. Before the Israelites' exodus from Egypt, God gave the first commandment to the soon-to-be-established nation of Israel: 'This month is to be for you the first month, the first month of your year.' (Exodus 12:2)."
     },
@@ -72,7 +80,8 @@
       "date": "2027-05-08",
       "month_en": "Iyar",
       "month_zh": "以珥月",
-      "tribal_association": "以薩迦支派 (Tribe of Issachar)",
+      "tribal_association_en": "Tribe of Issachar",
+      "tribal_association_zh": "以薩迦支派",
       "meaning_zh": "以珥月是猶太聖曆的第二個月份。通常猶太人慶祝逾越節是在尼散月，但當一個人禮儀上不潔或離聖殿太遠，神給人第二次機會過第二個逾越節，就是在以珥月十四日黃昏 (民9:9-14)。",
       "meaning_en": "Iyar is the second month of the Jewish calendar. While Passover is typically celebrated in the month of Nisan, God provided a second opportunity for those who were ritually unclean or too far from the Temple to celebrate."
     },
@@ -80,7 +89,8 @@
       "date": "2027-06-06",
       "month_en": "Sivan",
       "month_zh": "西彎月",
-      "tribal_association": "西布倫支派 (Tribe of Zebulun)",
+      "tribal_association_en": "Tribe of Zebulun",
+      "tribal_association_zh": "西布倫支派",
       "meaning_zh": "西彎月是猶太聖曆的第三個月份。本月第六日是五旬節。五旬的意思是五十，從除酵節期間獻上禾捆作搖祭的第一天開始算起，滿七個安息日的次日，也就是第五十天，以色列人將新素祭獻給耶和華，作為永遠的定例（利 23:15-21）。五旬節與逾越節及住棚節並列為猶太曆法中的三大節期。",
       "meaning_en": "Sivan is the third month of the Jewish calendar. The sixth day of this month marks Pentecost (Shavuot), one of the three major festivals in the Jewish calendar."
     },
@@ -88,15 +98,17 @@
       "date": "2027-07-06",
       "month_en": "Tammuz",
       "month_zh": "搭模斯月",
-      "tribal_association": "流便(呂便)支派 (Tribe of Reuben)",
+      "tribal_association_en": "Tribe of Reuben",
+      "tribal_association_zh": "流便(呂便)支派",
       "meaning_zh": "搭模斯月是猶太聖曆的第四個月份，這個月份在猶太歷史中具有重要意義，主要與悔改、反思和悲傷的主題相關，是非常需要儆醒的月份。",
       "meaning_en": "Tammuz is the fourth month of the Jewish calendar. This month holds significant importance in Jewish history, primarily associated with themes of repentance, reflection, and sorrow."
     },
     {
       "date": "2027-08-04",
       "month_en": "Av",
-      "month_zh": "埃波月 (Menachem Av)",
-      "tribal_association": "西緬支派 (Tribe of Simeon)",
+      "month_zh": "埃波月",
+      "tribal_association_en": "Tribe of Simeon",
+      "tribal_association_zh": "西緬支派",
       "meaning_zh": "埃波月是猶太聖曆的第五個月份。「埃波」的字面意思是「父親」，其字根延伸出「抑制」或「渴望」的含義。在猶太人的傳統中，習慣在埃波月前加上「Menachem」，意為「安慰者」或「保惠師」，因此稱為「Menachem Av」，象徵在哀傷中尋求安慰與盼望。",
       "meaning_en": "Av is the fifth month of the Jewish calendar. The name Av means 'father'. In Jewish tradition, it is common to add the prefix 'Menachem' before Av, resulting in 'Menachem Av', which means 'Comforter' or 'Counselor'."
     },
@@ -104,7 +116,8 @@
       "date": "2027-09-03",
       "month_en": "Elul",
       "month_zh": "以祿月",
-      "tribal_association": "迦得支派 (Tribe of Gad)",
+      "tribal_association_en": " Tribe of Gad",
+      "tribal_association_zh": "迦得支派",
       "meaning_zh": "以祿月是猶太聖曆的第六個月份，又稱為「悔改之月」、「憐憫之月」和「饒恕之月」。傳統上，猶太人會自以祿月首日起舉行一系列儀式以迎接下一個月提斯利月的「至聖日」，即從猶太新年到贖罪日的十天的來臨，當中亦會於每天早晨吹奏號角。",
       "meaning_en": "Elul is the sixth month of Jewish Calendar. It is also called 'Month of Repentance', 'Month of Mercy' and 'Month of Forgiveness'."
     },
@@ -113,7 +126,8 @@
       "year_hebrew": "5788",
       "month_en": "Tishrei",
       "month_zh": "提斯利月",
-      "tribal_association": "以法蓮支派 (Tribe of Ephraim)",
+      "tribal_association_en": "Tribe of Ephraim",
+      "tribal_association_zh": "以法蓮支派",
       "meaning_zh": "提斯利月有「開始」意思，是猶太人民間曆法正月，也是猶太聖曆的第七個月份。而數字「7」代表「完成、圓滿」，因此提斯利月是整年節期循環中的高點。",
       "meaning_en": "Tishrei means 'beginning'. It's the Jewish New Year and also the seventh month of Jewish Calendar."
     },
@@ -121,7 +135,8 @@
       "date": "2027-11-01",
       "month_en": "Cheshvan",
       "month_zh": "瑪西班月",
-      "tribal_association": "瑪拿西支派 (Tribe of Manasseh)",
+      "tribal_association_en": "Tribe of Manasseh",
+      "tribal_association_zh": "瑪拿西支派",
       "meaning_zh": "瑪西班月是猶太聖曆的第八個月份，希伯來數字「8」代表「啓示」和「新的開始」。",
       "meaning_en": "Cheshvan is the eighth month of Jewish calendar. The Hebrew number '8' represents 'revelation' and 'a new start'."
     },
@@ -129,7 +144,8 @@
       "date": "2027-12-01",
       "month_en": "Kislev",
       "month_zh": "基斯流月",
-      "tribal_association": "便雅憫支派 (Tribe of Benjamin)",
+      "tribal_association_en": "Tribe of Benjamin",
+      "tribal_association_zh": "便雅憫支派",
       "meaning_zh": "基斯流月是猶太聖曆的第九個月份，基斯流這名字源於希伯來文的「安全」及「信任」。(詩篇 36:9)",
       "meaning_en": "Kislev is the ninth month of Jewish Calendar. The name 'Kislev' is originated from the Hebrew word 'safe' and 'trust'. (Psalm 36:9)"
     },
@@ -137,7 +153,8 @@
       "date": "2027-12-31",
       "month_en": "Tevet",
       "month_zh": "提別月",
-      "tribal_association": "但支派 (Tribe of Dan)",
+      "tribal_association_en": "Tribe of Dan",
+      "tribal_association_zh": "但支派",
       "meaning_zh": "提別月是猶太聖曆的第十個月份。從光明節開始，提醒我們神是行神跡的神，光永遠勝過黑暗。",
       "meaning_en": "Tevet is the tenth month of Jewish Calendar. Hanukkah begins to remind us God is the God of miracles and light shall overcome darkness."
     }
